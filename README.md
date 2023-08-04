@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://neon-frangollo-53211d.netlify.app/](https://neon-frangollo-53211d.netlify.app/)
+- 👨‍💻 All of my projects are available [here](https://ayushmaan.netlify.app/)
 
 - 💬 Ask me about **Javascript, Flutter, Linux, Anime, Manga and Books :P**
 
