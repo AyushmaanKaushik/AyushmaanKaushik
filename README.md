@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmaankaushik&label=Profile%20views&color=0e75b6&style=flat" alt="ayushmaankaushik" /> </p>
 
-- 🏗️ Building scalable data pipelines and cloud-native data platforms
+I'm a Data Engineer based in India, building scalable data pipelines and cloud-native data platforms. I work with the modern data stack — **Snowflake**, **Databricks**, **AWS**, **Azure**, **Airflow**, and **dbt** — to move and transform data reliably.
 
-- 💬 Ask me about **Snowflake, Databricks, AWS, Azure, Airflow, dbt**
+Happy to chat about data engineering, pipeline architecture, or anything in the modern data stack.
 
-- 📫 How to reach me **ayushmaan1362@gmail.com**
+📧 Reach me at **ayushmaan1362@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on:</h3>
 <table><tr>
 <td><a href="https://twitter.com/ayushmehk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushmehk" height="30" width="40" /></a></td>
 <td><a href="https://linkedin.com/in/ayushmaankaushik" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushmaankaushik" height="30" width="40" /></a></td>
